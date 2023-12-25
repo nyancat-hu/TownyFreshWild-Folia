@@ -1,0 +1,12 @@
+com\mcla\townyfreshwildfolia\integrations\Engine.class
+com\mcla\townyfreshwildfolia\integrations\towny\TownyIgnition.class
+com\mcla\townyfreshwildfolia\regentask\RegenTask.class
+com\mcla\townyfreshwildfolia\FreshWilderness.class
+com\mcla\townyfreshwildfolia\integrations\Integrations.class
+com\mcla\townyfreshwildfolia\store\Config.class
+com\mcla\townyfreshwildfolia\integrations\Ignition.class
+com\mcla\townyfreshwildfolia\integrations\towny\TownyEngine.class
+com\mcla\townyfreshwildfolia\Utils.class
+com\mcla\townyfreshwildfolia\store\WildernessLog.class
+com\mcla\townyfreshwildfolia\exceptions\IntegrationNotAddedException.class
+com\mcla\townyfreshwildfolia\regentask\versions\RegenTask_v1_20_R1.class

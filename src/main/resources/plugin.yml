@@ -1,0 +1,7 @@
+main: com.mcla.townyfreshwildfolia.FreshWilderness
+name: TownyFreshWilderness
+version: 1.5.0
+website: http://redstoneore.net/freshwilderness
+authors: [ MarkehMe,ice_light ]
+description: §eFresh Wilderness keeps your wilderness fresh.§aMarkehMe §eis the lead programmer. See §bhttp://redstoneore.net/freshwilderness§e for more information.
+softdepend: [ FactionsFramework, Kingdoms, Landlord, Townships, Towny, WorldGuard ]
