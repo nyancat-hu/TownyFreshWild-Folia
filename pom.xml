@@ -46,10 +46,6 @@
         <directory>src/main/resources</directory>
         <filtering>true</filtering>
       </resource>
-        <resource>
-            <directory>libs/pack</directory>
-            <filtering>false</filtering>
-        </resource>
     </resources>
   </build>
 
@@ -98,8 +94,7 @@
           <groupId>rson</groupId>
           <artifactId>rson-sdk</artifactId>
           <version>1.0</version>
-          <scope>system</scope>
-          <systemPath>${pom.basedir}/libs/pack/Rson.jar</systemPath>
+          <scope>compile</scope>
       </dependency>
       <dependency>
           <groupId>folia</groupId>

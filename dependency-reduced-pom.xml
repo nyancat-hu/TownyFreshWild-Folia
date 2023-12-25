@@ -11,9 +11,6 @@
         <filtering>true</filtering>
         <directory>src/main/resources</directory>
       </resource>
-      <resource>
-        <directory>libs/pack</directory>
-      </resource>
     </resources>
     <plugins>
       <plugin>
@@ -76,13 +73,6 @@
       <artifactId>folia-api</artifactId>
       <version>1.20.1-R0.1-SNAPSHOT</version>
       <scope>provided</scope>
-    </dependency>
-    <dependency>
-      <groupId>rson</groupId>
-      <artifactId>rson-sdk</artifactId>
-      <version>1.0</version>
-      <scope>system</scope>
-      <systemPath>${pom.basedir}/libs/pack/Rson.jar</systemPath>
     </dependency>
     <dependency>
       <groupId>folia</groupId>
